@@ -7,8 +7,6 @@ This Go web service is designed to process payment for a cardholder.The applicat
 Before running this application, ensure you have the following dependencies installed:
 
 - Docker
-- Docker Compose
-
 
 ## Configuration
 
